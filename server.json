@@ -15,6 +15,14 @@
       "category":"Alimentação",
       "price": 60,
       "createdAt": "2023-07-26T10:39:45.505Z"
+    },
+    {
+      "id": 2,
+      "description": "RocketSeat",
+      "type": "outcone",
+      "category":"Educaçao",
+      "price": 1980,
+      "createdAt": "2023-07-26T10:39:45.505Z"
     }
 
   ]
