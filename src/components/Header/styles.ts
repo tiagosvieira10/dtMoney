@@ -12,7 +12,7 @@ export const HeaderContent = styled.div`
   padding: 0 1.5rem;
 
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 `
 
