@@ -39,6 +39,38 @@
       "type": "outcone",
       "createdAt": "2023-07-27T00:25:50.994Z",
       "id": 4
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "incone",
+      "createdAt": "2023-07-27T14:05:38.353Z",
+      "id": 5
+    },
+    {
+      "description": "Pizza",
+      "price": 70,
+      "category": "Alimentação",
+      "type": "outcone",
+      "createdAt": "2023-07-27T14:05:57.016Z",
+      "id": 6
+    },
+    {
+      "description": "MacBoook Air M1",
+      "price": 8200,
+      "category": "Tecnologia",
+      "type": "outcone",
+      "createdAt": "2023-07-27T14:06:26.086Z",
+      "id": 7
+    },
+    {
+      "description": "Desenvolvimento de Site",
+      "price": 12000,
+      "category": "Venda",
+      "type": "incone",
+      "createdAt": "2023-07-27T14:06:48.843Z",
+      "id": 8
     }
   ]
 }
