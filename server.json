@@ -4,7 +4,7 @@
       "id": 1,
       "description": "Desenvolvimento de site",
       "type": "incone",
-      "category":"Venda",
+      "category": "Venda",
       "price": 14000,
       "createdAt": "2023-07-26T10:36:45.505Z"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "description": "Hamburguer",
       "type": "outcone",
-      "category":"Alimentação",
+      "category": "Alimentação",
       "price": 60,
       "createdAt": "2023-07-26T10:39:45.505Z"
     },
@@ -20,10 +20,25 @@
       "id": 2,
       "description": "MacBook Air M1",
       "type": "outcone",
-      "category":"Tecnologia",
+      "category": "Tecnologia",
       "price": 8200,
       "createdAt": "2023-07-26T10:39:45.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "incone",
+      "createdAt": "2023-07-26T23:58:31.053Z",
+      "id": 3
+    },
+    {
+      "description": "Pizza",
+      "price": 35,
+      "category": "Alimentação",
+      "type": "outcone",
+      "createdAt": "2023-07-27T00:25:50.994Z",
+      "id": 4
     }
-
   ]
 }
