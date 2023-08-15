@@ -71,6 +71,38 @@
       "type": "incone",
       "createdAt": "2023-07-27T14:06:48.843Z",
       "id": 8
+    },
+    {
+      "description": "Pizza",
+      "price": 23232,
+      "category": "Alimentação",
+      "type": "incone",
+      "createdAt": "2023-07-29T20:55:37.630Z",
+      "id": 9
+    },
+    {
+      "description": "violao",
+      "price": 5000,
+      "category": "Venda",
+      "type": "outcone",
+      "createdAt": "2023-07-29T20:55:52.379Z",
+      "id": 10
+    },
+    {
+      "description": "dizimo Lucia",
+      "price": 30,
+      "category": "dizimo",
+      "type": "incone",
+      "createdAt": "2023-07-29T20:56:50.295Z",
+      "id": 11
+    },
+    {
+      "description": "bateria",
+      "price": 15000,
+      "category": "musica",
+      "type": "outcone",
+      "createdAt": "2023-07-29T20:57:11.456Z",
+      "id": 12
     }
   ]
 }
